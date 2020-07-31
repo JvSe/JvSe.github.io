@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.038cb6ed.chunk.css",
+    "main.js": "/static/js/main.199ac868.chunk.js",
+    "main.js.map": "/static/js/main.199ac868.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.daaf4d4d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.daaf4d4d.js.map",
+    "static/js/2.fdc68540.chunk.js": "/static/js/2.fdc68540.chunk.js",
+    "static/js/2.fdc68540.chunk.js.map": "/static/js/2.fdc68540.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8c443f8ffb175e0c1e50358d2d0a2e6e.js": "/precache-manifest.8c443f8ffb175e0c1e50358d2d0a2e6e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.038cb6ed.chunk.css.map": "/static/css/main.038cb6ed.chunk.css.map",
+    "static/media/estrelamario.gif": "/static/media/estrelamario.e4960c1d.gif",
+    "static/media/eu.png": "/static/media/eu.0db44a80.png",
+    "static/media/kakashi.gif": "/static/media/kakashi.30f25dae.gif",
+    "static/media/kirito.gif": "/static/media/kirito.f835ca30.gif",
+    "static/media/minato.gif": "/static/media/minato.b4701a17.gif",
+    "static/media/sonic.gif": "/static/media/sonic.2148c060.gif",
+    "static/media/supermario.gif": "/static/media/supermario.ef03498a.gif",
+    "static/media/yang.gif": "/static/media/yang.faf226d9.gif",
+    "static/media/zelda-link.gif": "/static/media/zelda-link.ac0fcf64.gif"
+  }
+}
