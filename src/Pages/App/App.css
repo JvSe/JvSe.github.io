@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  border-radius: 200px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.App .elements #img-1 {
+  position: absolute;
+  top: 30px;
+  left: 400px;
+  width: 10%;
+  height: 20%;
+  object-fit: cover;
+}
+.App .elements #img-2 {
+  position: absolute;
+  top: 350px;
+  right: 150px;
+  width: 5%;
+  height: 10%;
+  object-fit: cover;
+}
+.App .elements #img-3 {
+  width: 5%;
+  height: 15%;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  left: 250px;
+}
+.App .elements #img-4 {
+  position: absolute;
+  bottom: 150px;
+  right: 150px;
+  width: 20%;
+  height: 20%;
+  object-fit: cover;
+}
+.App .elements #img-5 {
+  position: absolute;
+  bottom: 500px;
+  right: 400px;
+  width: 10%;
+  height: 20%;
+  object-fit: cover;
+}
+.App .elements #img-6 {
+  position: absolute;
+  bottom: 100px;
+  left: 350px;
+  width: 5%;
+  height: 10%;
+  object-fit: cover;
+}
+.App .elements #img-7 {
+  position: absolute;
+  bottom: 100px;
+  right: 590px;
+  width: 20%;
+  height: 20%;
+  object-fit: cover;
+}
+
+.App .elements #img-8 {
+  position: absolute;
+  bottom: 605px;
+  right: 690px;
+  width: 10%;
+  height: 20%;
+  object-fit: cover;
+}
+
+
